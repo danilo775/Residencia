@@ -11,11 +11,11 @@ int main() {
     // c. Verificar o tipo de caractere
 
 
-    if (std::isupper(ch1)) {
-        ch2 = 'M'; // Letra maiúscula
-    } else if (std::islower(ch1)) {
-        ch2 = 'm'; // Letra minúscula
-    } else if (std::isdigit(ch1)) {
+    isupper(ch1) ? cout << "É uma letra maiúscula." << endl; 
+    islower(ch1) ?  cout << "É uma letra minúscula." ;
+     
+   
+     if (std::isdigit(ch1)) {
         ch2 = 'd'; // Dígito
     } else {
         ch2 = 'o'; // Outro tipo de caractere
