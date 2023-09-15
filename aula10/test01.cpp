@@ -1,8 +1,8 @@
 
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(int argc, char* argv[]){
+int main(){
    char nome[10]= "oi mundo";
    char x;
    nome[10]='g';
