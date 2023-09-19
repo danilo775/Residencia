@@ -10,10 +10,13 @@ struct Produto
 
 int main()
 {
-    
+    Produto produto;
+    char nome;  
+    double preco = 0.0;
+    int quantidade = 0;
 
     cout<<"Nome: ";
-    cin.get(Lennon.name,50);
+    cin >> produto.nome;
 
     cout<<"Nota em Matemática: ";
     cin >> Lennon.math;
