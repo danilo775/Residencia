@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
+<<<<<<< HEAD
+      "cwd": "/home/danilo-conceicao-santos/Documentos/Residencia/Data",
+      "program": "/home/danilo-conceicao-santos/Documentos/Residencia/Data/build/Debug/outDebug",
+=======
       "cwd": "/home/danilo-conceicao-santos/Documentos/Residencia/aula_18",
       "program": "/home/danilo-conceicao-santos/Documentos/Residencia/aula_18/build/Debug/outDebug",
+>>>>>>> origin/main
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
