@@ -11,7 +11,7 @@ struct Produto
 int main()
 {
     Produto produto;
-    char nome;  
+    char nome;   
     double preco = 0.0;
     int quantidade = 0;
 
