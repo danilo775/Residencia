@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/Analia/Desktop/Residencia/Residencia/aula20",
-      "program": "c:/Users/Analia/Desktop/Residencia/Residencia/aula20/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/danilo-conceicao-santos/Documentos/Residencia/aula04",
+      "program": "/home/danilo-conceicao-santos/Documentos/Residencia/aula04/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
