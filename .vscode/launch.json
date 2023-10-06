@@ -7,14 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
-<<<<<<< HEAD
-      "cwd": "/home/danilo-conceicao-santos/Documentos/Residencia/Data",
-      "program": "/home/danilo-conceicao-santos/Documentos/Residencia/Data/build/Debug/outDebug",
-=======
-      "cwd": "/home/danilo-conceicao-santos/Documentos/Residencia/aula_18",
-      "program": "/home/danilo-conceicao-santos/Documentos/Residencia/aula_18/build/Debug/outDebug",
->>>>>>> origin/main
+      "externalConsole": true,
+      "cwd": "c:/Users/Analia/Desktop/Residencia/Residencia/aula20",
+      "program": "c:/Users/Analia/Desktop/Residencia/Residencia/aula20/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
